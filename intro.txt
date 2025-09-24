@@ -1,0 +1,18 @@
+Good Morning
+My name is Devarshini
+I am from Tirupati, Andhra Pradesh
+I have completed my graduation from Sree Vidyanikethan Engineering College 
+in the stream of Computer science and engineering
+My hobbies are playing badminton, gardening and travelling
+I want to become a python fullstack developer
+My technical skills are python,sql,html,css and javascript
+My non technical skills are team leading, softskills
+I have worked on some mini projects and a major project in the part of my btech
+those mini projects are chatbot,vacationtrip management,learning management systems
+major project is phishalert realtime detection and analysis of malicious urls 
+using advanced machine learning algorithms
+I also worked as web developer intern at gangaaram technologies, 
+gained working experience on realtime projects
+I also worked as event management lead for GDSC club at our College
+Thank you
+
